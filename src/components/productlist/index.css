@@ -34,7 +34,7 @@
     background:#ff5656;
 }
 .alterarDados{
-    background:#832bf7;
+    background:#2b7df7;
 }
 .salvarDados{
     background:#74df85;
@@ -52,8 +52,8 @@
     margin: .1rem 0 .4rem;
     background: #fafafa;
     border-radius: 3px;
-    border: 1px solid #832bf7;
-    box-shadow: 0px 0px 2px #832bf781;
+    border: 1px solid #2b7df7;
+    box-shadow: 0px 0px 2px #2b7df781;
     color: #424242;
     font-weight: 500;
     text-transform: capitalize;
