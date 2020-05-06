@@ -9,8 +9,8 @@
     justify-content: space-between;
 }
 .inputItem .inputProduto, .inputItem .inputQtd, .buttonAdd {
-    border: 1px solid #832bf7;
-    color: #832bf7;
+    border: 1px solid #2b7df7;
+    color: #2b7df7;
     padding:.5rem;
     border-radius: 3px;
 }
@@ -25,13 +25,13 @@
 }
 .inputItem .inputProduto:focus, .inputItem .inputQtd:focus, .buttonAdd:focus{
     outline: none;
-    box-shadow: 0px 0px 2px #832bf781;
+    box-shadow: 0px 0px 2px #2b7df781;
 }
 .buttonAdd{
     width:10%;
     min-width: 43px;
     justify-content: center;
-    background:#832bf7;
+    background:#2b7df7;
     font-weight: 600;
     color:#fff;
     text-transform: uppercase;
@@ -43,6 +43,6 @@
     width: 70%;
     margin: 2px auto;
     text-align: center;
-    color: #832bf7;
+    color: #2b7df7;
     font-style: italic;
 }
